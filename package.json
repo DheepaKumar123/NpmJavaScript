@@ -2,7 +2,7 @@
 
   "name": "npm-javascript",
 
-  "version": "14.2.0.26",
+  "version": "14.2.26",
 
   "description": "Npm package of JavaScript.",
 
@@ -33,14 +33,14 @@
   "homepage": "https://github.com/DheepaKumar123/NpmJavaScript#readme",
   
   "files": [
-        "scripts/",
+        "scripts/"
     ],
     "jspm": {
         "main": false,
         "format": "amd",
-        "registry" : "npm",
+        "registry" : "github",
         "files": [
-            "scripts",
-        ]
+            "scripts"
+               ]
     }
 }
